@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <strong>YOUR TOOLS. YOUR SYSTEM. YOUR RULES.</strong>
+  <strong>I TUOI STRUMENTI. IL TUO SISTEMA. LE TUE REGOLE.</strong>
   <br />
-  A modular toolkit for developers, cybersecurity enthusiasts and power users.
+  Una raccolta di strumenti modulari per sviluppatori, appassionati di sicurezza informatica e utenti avanzati.
 </p>
 
 <p align="center">
@@ -17,57 +17,57 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-18181B?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
-  <img src="https://img.shields.io/badge/INTERFACE-LIQUID%20GLASS-18181B?style=flat-square" alt="Liquid Glass" />
-  <img src="https://img.shields.io/badge/ARCHITECTURE-MODULAR-18181B?style=flat-square" alt="Modular architecture" />
+  <img src="https://img.shields.io/badge/SISTEMA-WINDOWS-18181B?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/INTERFACCIA-LIQUID%20GLASS-18181B?style=flat-square" alt="Liquid Glass" />
+  <img src="https://img.shields.io/badge/ARCHITETTURA-MODULARE-18181B?style=flat-square" alt="Architettura modulare" />
 </p>
 
 ---
 
-## ◈ OVERVIEW
+## ◈ PANORAMICA
 
-**GHOSTMAN TOOLKIT** brings development utilities, network tools and research workflows together in one desktop application.
+**GHOSTMAN TOOLKIT** è un'applicazione desktop modulare progettata per riunire strumenti di sviluppo, utilità di rete e funzionalità di ricerca in un'unica interfaccia.
 
-Designed with a minimal dark aesthetic and a modular architecture, GHOSTMAN aims to provide a clean, extensible environment where tools work together without unnecessary complexity.
+Caratterizzato da un design minimalista scuro e da un'architettura estensibile, GHOSTMAN punta a offrire un ambiente ordinato, moderno e personalizzabile, senza complicazioni inutili.
 
-> One application. Multiple possibilities.
+> Una sola applicazione. Infinite possibilità.
 
-## ◈ CORE FEATURES
+## ◈ FUNZIONALITÀ
 
-| Module | Description |
+| Modulo | Descrizione |
 |:--|:--|
-| 🖥️ **Dashboard** | A unified interface for accessing your tools. |
-| 🧩 **Plugin System** | An extensible architecture for additional modules. |
-| 💻 **Developer Tools** | Utilities for coding and everyday development. |
-| 🌐 **Network Tools** | Network diagnostics and troubleshooting. |
-| 🔎 **OSINT** | Research based on publicly available information. |
-| ⚙️ **Automation** | A foundation for scripts and custom workflows. |
-| 🔄 **Updates** | A foundation for maintaining and improving releases. |
+| 🖥️ **Dashboard** | Un'interfaccia centralizzata per accedere agli strumenti. |
+| 🧩 **Sistema plugin** | Un'architettura modulare per aggiungere nuove funzionalità. |
+| 💻 **Strumenti per sviluppatori** | Utilità per la programmazione e lo sviluppo quotidiano. |
+| 🌐 **Strumenti di rete** | Diagnostica e analisi delle connessioni di rete. |
+| 🔎 **OSINT** | Ricerca e analisi di informazioni disponibili pubblicamente. |
+| ⚙️ **Automazione** | Supporto per script e flussi di lavoro personalizzati. |
+| 🔄 **Aggiornamenti** | Una base per gestire e migliorare le versioni del software. |
 
-*Availability depends on the current version.*
+*Le funzionalità effettivamente disponibili dipendono dalla versione installata.*
 
-## ◈ DESIGN PHILOSOPHY
+## ◈ FILOSOFIA DEL PROGETTO
 
-- **Minimal** — A clean interface without visual clutter.
-- **Dark** — A black, white and grey visual identity.
-- **Modular** — Designed to grow through plugins and extensions.
-- **Practical** — Tools focused on real workflows.
-- **Extensible** — A foundation for future integrations.
+- **Minimalista** — Un'interfaccia pulita, senza elementi superflui.
+- **Dark** — Un'identità visiva basata su nero, bianco e grigio.
+- **Modulare** — Progettato per espandersi attraverso plugin ed estensioni.
+- **Pratico** — Strumenti pensati per attività concrete.
+- **Estensibile** — Una base pronta per future integrazioni.
 
 ## ◈ ROADMAP
 
-- [x] Project identity and interface concept
-- [x] Initial toolkit modules
-- [ ] Core architecture and navigation
-- [ ] Plugin manager and compatibility validation
-- [ ] Plugin SDK and developer documentation
-- [ ] Windows packaging and installer improvements
-- [ ] Update channels and rollback support
-- [ ] Remote access capabilities
+- [x] Identità visiva e concept dell'interfaccia
+- [x] Moduli iniziali del toolkit
+- [ ] Architettura principale e navigazione
+- [ ] Gestore dei plugin e verifica della compatibilità
+- [ ] SDK e documentazione per sviluppatori
+- [ ] Miglioramenti al programma di installazione Windows
+- [ ] Canali di aggiornamento e ripristino delle versioni
+- [ ] Funzionalità di accesso remoto
 
 ## ◈ COMMUNITY
 
-Have an idea, found a bug, or want to contribute?
+Hai un'idea, hai trovato un problema oppure vuoi contribuire allo sviluppo?
 
 <p align="center">
   <a href="https://discord.com/invite/dZughrwXjq">
@@ -75,24 +75,24 @@ Have an idea, found a bug, or want to contribute?
   </a>
 </p>
 
-Connect with the GHOSTMAN community to discuss features, share feedback and follow project development.
+Entra nel server Discord ufficiale per condividere suggerimenti, discutere nuove funzionalità e seguire gli aggiornamenti del progetto.
 
-## ◈ RESPONSIBLE USE
+## ◈ UTILIZZO RESPONSABILE
 
-GHOSTMAN TOOLKIT is intended for legitimate development, education, diagnostics and authorized security testing.
+GHOSTMAN TOOLKIT è destinato allo sviluppo software, alla formazione, alla diagnostica e alle verifiche di sicurezza autorizzate.
 
-Always respect applicable laws, privacy and the permissions required to test systems.
+Utilizza gli strumenti nel rispetto delle leggi vigenti, della privacy e delle autorizzazioni necessarie per testare i sistemi.
 
-## ◈ LICENSE
+## ◈ LICENZA
 
-License and distribution terms will be specified in this repository.
+La licenza e le condizioni di distribuzione saranno specificate all'interno di questo repository.
 
 ---
 
 <p align="center">
   <strong>GHOSTMAN TOOLKIT</strong>
   <br />
-  <sub>BUILT IN THE SHADOWS. DESIGNED FOR POSSIBILITIES.</sub>
+  <sub>CREATO NELL'OMBRA. PROGETTATO PER ANDARE OLTRE.</sub>
   <br /><br />
   <a href="https://discord.com/invite/dZughrwXjq">
     <img src="https://img.shields.io/badge/DISCORD-5865F2?style=flat-square&logo=discord&logoColor=white" alt="DISCORD" />
